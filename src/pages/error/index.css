@@ -1,0 +1,39 @@
+.content-center {
+    text-align: center;
+    color: rgb(23, 23, 23);
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.error {
+    font-size: 100px;
+    margin-bottom: 1px;
+}
+
+.content-center p {
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.content-center .home-btn {
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #e07e7b;
+    color: #fff;
+    font-size: 17px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+    border-radius: 4px;
+    text-align: center;
+    opacity: 1;
+    transition: all 400ms;
+}
+
+
+.content-center button:hover {
+    background-color: #ce5856;
+}

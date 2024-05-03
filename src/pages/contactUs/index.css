@@ -1,0 +1,14 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.info-description {
+    margin: 0% 10%;
+    text-align: center;
+}
+
+.info-img {
+    width: 40%;
+}
